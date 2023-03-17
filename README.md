@@ -9,3 +9,4 @@ The bootstrap module consists of all the bootstrap libraries which we can use di
 **Module2 jQuery : **
 **Desc:**
 jQuery is the most popular JavaScript tool of all time in this module **"$"** sign is used to fetch any element/class/id and uses different in-build functions which makes jQuery easier to use.
+
