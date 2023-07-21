@@ -26,7 +26,3 @@ Desc:
 sfkjg 
 s
 fg
-sf
-g
-sfg
-s
