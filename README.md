@@ -26,5 +26,3 @@ Desc:
 sfkjg 
 s
 fg
-kbj
-srt
