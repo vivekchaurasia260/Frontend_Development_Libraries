@@ -24,5 +24,3 @@ In this repo, you'll learn how to store data in variables, nest CSS, create reus
 Desc:
 
 sfkjg 
-s
-fg
