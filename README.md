@@ -22,8 +22,4 @@ In this repo, you'll learn how to store data in variables, nest CSS, create reus
 
 **Module4 React :**
 Desc:
-
-sfkjg 
-sfgd
-dh
-fuj
+uj
