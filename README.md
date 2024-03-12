@@ -25,5 +25,4 @@ Desc:
 uj
 
 wd
-wrg
-rwg
+
